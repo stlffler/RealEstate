@@ -1,0 +1,95 @@
+[
+  {
+  "name": "Magelan",
+  "address": "Kiltsevyj shliakh St, 4-А, Kharkiv, Kharkiv Oblast, 61000",
+  "propertyType": "Office",
+  "propertyClass": "A+",
+  "floors": 3,
+  "totalBuildingArea": 500,
+  "tenancy": "lorem ipsum",
+  "noOfTenants": 500,
+  "website": "magelan.kh.ua",
+  "yearBuilt": "2006",
+  "description": "The shopping and entertainment center Magelan can rightly be considered the center of a new generation. Its concept has no analogues in the Ukrainian market and is developed by professional retail consultants. \"Magelan\" shopping and entertainment center is designed taking into account the norms and international recommendations on the organization of the trading space. \"Magelan\" will become one of the most attractive places for shopping and leisure. Excellent location, professional concept with a wide choice of famous brands shops, as well as an abundance of cafes and restaurants, not to mention entertainment, will make the shopping center a resting place for the residents of the city and the nearest settlements.",
+  "availability": [
+    {
+      "unitName": "Floor 1",
+      "recordType": "Vacant",
+      "availableArea": "200"
+    },
+    {
+      "unitName": "Floor 2",
+      "recordType": "Future Available",
+      "availableArea": "200"
+    },
+    {
+      "unitName": "Floor 3",
+      "recordType" : "Future Available",
+      "availableArea": "200"
+    }
+  ]
+},
+  {
+    "name": "Хаїха country house",
+  "address": "Хаїха, Chernihivs'ka oblast, 16711",
+  "propertyType": "Commercial",
+  "propertyClass": "A",
+  "floors": 1,
+  "totalBuildingArea": 100,
+  "tenancy": "lorem ipsum",
+  "noOfTenants": 20,
+  "website": "klassmarket.ua",
+  "yearBuilt": "2001",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
+  "availability":  [
+      {
+      "unitName": "Room 1",
+      "recordType": "Vacant",
+      "availableArea": "42"
+    },
+    {
+      "unitName": "Room 2",
+      "recordType": "Future Available",
+      "availableArea": "20"
+    },
+    {
+      "unitName": "Room 3",
+      "recordType": "Future Available",
+      "availableArea": "20"
+    },
+    {
+      "unitName": "Room 4",
+      "recordType": "Vacant",
+      "availableArea": "18"
+    }
+
+  ]
+},
+  {
+    "name": "Taj Mahal",
+  "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001",
+  "propertyType": "Office",
+  "propertyClass": "C",
+  "floors": 1,
+  "totalBuildingArea": 1200,
+  "tenancy": "lorem ipsum",
+  "noOfTenants": 12000,
+  "website": "www.tajmahal.gov.in",
+  "yearBuilt": "1632",
+  "description": "The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan (reigned from 1628 to 1658), to house the tomb of his favourite wife, Mumtaz Mahal. The tomb is the centrepiece of a 17-hectare (42-acre)[5] complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall.", 
+  "availability":  [
+      {
+      "unitName": "Room 1",
+      "recordType": "Vacant",
+      "availableArea": "600"
+    },
+    {
+      "unitName": "Room 2",
+      "recordType": "Vacant",
+      "availableArea": "600"
+    }
+    
+
+  ]
+}
+]
